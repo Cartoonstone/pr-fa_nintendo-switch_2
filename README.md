@@ -22,7 +22,7 @@
 * Robboto condensed með 1px stafa bil
 
 ### Litaþemi
-![image](https://github.com/user-attachments/assets/9c3bff0b-3954-48a4-a927-e49cf85e0659)
+![image](https://github.com/user-attachments/assets/c7fc2934-b0f4-4213-ba46-317dfe27170f)
 
 ### Sitemap
 <img width="509" alt="sitemap" src="https://github.com/user-attachments/assets/6b5becae-e928-4aff-a111-15dcd25aa064" />
@@ -31,4 +31,5 @@
 ![image](https://github.com/user-attachments/assets/69b683a5-4ab8-463a-a688-22ce05008af2)
 
 ### style style
-![image](https://github.com/user-attachments/assets/92fdea68-4280-4156-a698-78541fe27672)
+![image](https://github.com/user-attachments/assets/2b42da3d-7f0a-423d-8114-799211836d57)
+
